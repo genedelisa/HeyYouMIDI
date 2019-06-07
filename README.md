@@ -14,11 +14,15 @@ Run the app to install the audio unit. Then launch your host and then load the A
 
 I do not have the current version of Logic X. (lack of disposable income).
 
-My version is before MIDI was added to AUv3, so I cannot test yet. When I run my version of Logic X, it does not validate
+My version is before MIDI was added to AUv3, so I cannot test yet. 
+
+**When I run my version of Logic X, it does not validate**
+
 The plugin does validate though via the command line program auval.
 
 If you do have the current version of Logic X (or GB, or Ableton), please test it and let me know what happens.
 
+Even better, if you can find what's wrong, let me know!
 
 ## Blog post for this example.
 
