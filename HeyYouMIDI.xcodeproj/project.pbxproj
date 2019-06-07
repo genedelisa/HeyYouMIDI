@@ -202,6 +202,11 @@
 					};
 					B0A87C0D211B2C0E00B8F6C7 = {
 						CreatedOnToolsVersion = 9.4.1;
+						SystemCapabilities = {
+							com.apple.Sandbox = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
